@@ -1,0 +1,7 @@
+http://www.lgm.com/bolo/
+http://en.wikipedia.org/wiki/Bolo_(video_game)
+http://people.apache.org/~mheath/webbolo.Main/Main.html
+http://code.google.com/p/winbolo/
+
+https://github.com/stephank/orona
+http://stephank.github.com/orona/bolo.html
